@@ -1,4 +1,4 @@
-package cn.edu.xmu.restfuldemo.model;
+package cn.edu.xmu.restfuldemo.controller.vo;
 
 import cn.edu.xmu.restfuldemo.model.Product;
 import io.swagger.annotations.ApiModel;
